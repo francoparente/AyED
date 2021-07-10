@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599517150 source:c:\users\fpare\documents\_utn\utn 2020\algoritmos y estructura de datos\ejercicios - parente\archivos binarios - k1031\ej2\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
